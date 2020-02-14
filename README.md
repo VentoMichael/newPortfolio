@@ -51,5 +51,4 @@ The "red thread" of my website is light animation.
 
 * Divide in half, the form on the left and location information on the right
 
-* A carousel of my work in the footer# 2.0-portfolio
-# newPortfolio
+* A carousel of my work in the footer
