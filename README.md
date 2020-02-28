@@ -6,7 +6,7 @@ A portfolio is the best way to show off your skills and let the world see what y
 
 The "red thread" of my website is light animation.
 
-[See my wireframe] (https://projects.invisionapp.com/d/main?origin=v7#/projects/prototypes/19439841?scrollOffset=1762)
+[See my wireframe](https://projects.invisionapp.com/d/main?origin=v7#/projects/prototypes/19439841?scrollOffset=1762)
 
 ## Home 
 
